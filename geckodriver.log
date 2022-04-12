@@ -1,0 +1,562 @@
+1649559600353	geckodriver	INFO	Listening on 127.0.0.1:49381
+1649559603483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49382" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilecnIYo6"
+1649559843032	geckodriver	INFO	Listening on 127.0.0.1:49597
+1649559846154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49598" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilegGtqvr"
+1649559846694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilegGtqvr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49598/devtools/browser/bd3ce1dd-fd77-4ba6-9f8c-ac7bfdc2d1c8
+1649559848810	Marionette	INFO	Listening on port 49604
+1649559848890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649559851248	Marionette	INFO	Stopped listening on port 49604
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649559859210	geckodriver	INFO	Listening on 127.0.0.1:49684
+1649559862342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49685" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileRzmmnc"
+1649559862681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileRzmmnc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49685/devtools/browser/98342abd-4fc3-481e-9d6e-a12cc70e544d
+1649559864745	Marionette	INFO	Listening on port 49691
+1649559865009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649559868189	Marionette	INFO	Stopped listening on port 49691
+[Parent 2352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649559900026	geckodriver	INFO	Listening on 127.0.0.1:49773
+1649559903159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49774" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileu5K71H"
+1649559903471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileu5K71H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49774/devtools/browser/a6a14520-f797-41ad-b1a0-62cb763b2210
+1649559905361	Marionette	INFO	Listening on port 49781
+1649559905838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649560112533	Marionette	INFO	Stopped listening on port 49781
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49868" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileTaa5mM"
+1649559952605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileTaa5mM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49868/devtools/browser/4e9faa13-9cf0-4606-8569-e42349622c20
+1649559954713	Marionette	INFO	Listening on port 49877
+1649559954992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649559956190	Marionette	INFO	Stopped listening on port 49877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649559979503	geckodriver	INFO	Listening on 127.0.0.1:49944
+1649559982604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49945" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileXt2GLi"
+1649559982908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileXt2GLi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49945/devtools/browser/0aa58de7-e368-4e15-8b14-1161a6e05131
+1649559984791	Marionette	INFO	Listening on port 49954
+1649559985274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649559986592	Marionette	INFO	Stopped listening on port 49954
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 598: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 598: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[Parent 18252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649560024101	geckodriver	INFO	Listening on 127.0.0.1:50034
+1649560027214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50035" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileztGmDr"
+1649560027511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileztGmDr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50035/devtools/browser/60de1794-fb52-4a87-bebd-c2a95553bf7f
+1649560029608	Marionette	INFO	Listening on port 50043
+1649560029894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649560032160	Marionette	INFO	Stopped listening on port 50043
+1649560050860	geckodriver	INFO	Listening on 127.0.0.1:50119
+1649560053965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50120" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofile0bVEy2"
+1649560054250	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofile0bVEy2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50120/devtools/browser/05167c8f-4507-4c63-b2cd-e245d00a96cd
+1649560056346	Marionette	INFO	Listening on port 50127
+1649560056629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649560113493	Marionette	INFO	Stopped listening on port 50127
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649560140228	geckodriver	INFO	Listening on 127.0.0.1:50263
+1649560143365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50264" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileFE81U4"
+1649560143662	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileFE81U4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50264/devtools/browser/55efc7f4-0c9e-4c66-902c-e606f1dff70e
+1649560145693	Marionette	INFO	Listening on port 50269
+1649560146050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649560147582	Marionette	INFO	Stopped listening on port 50269
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 11368, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649560336549	geckodriver	INFO	Listening on 127.0.0.1:50462
+1649560339687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50463" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofile02wlbl"
+1649560339991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofile02wlbl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50463/devtools/browser/992d6802-6eb2-4be7-b600-32b89e358b11
+1649560342060	Marionette	INFO	Listening on port 50472
+1649560342387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649560354700	Marionette	INFO	Stopped listening on port 50472
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1649560443235	geckodriver	INFO	Listening on 127.0.0.1:50616
+1649560446365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50617" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilezqWBpK"
+1649560446670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilezqWBpK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50617/devtools/browser/cfc4ad29-64e1-483d-8155-0df0611547d4
+1649560448574	Marionette	INFO	Listening on port 50623
+1649560449020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649560461917	Marionette	INFO	Stopped listening on port 50623
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1649560619837	geckodriver	INFO	Listening on 127.0.0.1:50802
+1649560622966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50803" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilepYCZSU"
+1649560623384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilepYCZSU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50803/devtools/browser/09ba0ce1-b0b6-4d52-ba38-fc920d10dac4
+1649560625284	Marionette	INFO	Listening on port 50808
+1649560625658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649560638925	Marionette	INFO	Stopped listening on port 50808
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 7940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649561180520	geckodriver	INFO	Listening on 127.0.0.1:51379
+1649561183636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51380" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileYwZAgt"
+1649561184150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileYwZAgt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51380/devtools/browser/ea0ab521-fc50-4785-bf97-e0296f4048b7
+1649561186204	Marionette	INFO	Listening on port 51388
+1649561186320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 2180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649561222476	Marionette	INFO	Stopped listening on port 51388
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649561326327	geckodriver	INFO	Listening on 127.0.0.1:51690
+1649561329460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51691" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileyaoUg9"
+1649561329878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileyaoUg9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51691/devtools/browser/41548489-54b6-4bd2-884d-b6f2eadd51b0
+1649561331842	Marionette	INFO	Listening on port 51699
+1649561332130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649561676293	Marionette	INFO	Stopped listening on port 51699
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649561787785	geckodriver	INFO	Listening on 127.0.0.1:52252
+1649561790981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52253" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilefRsqjk"
+1649561791420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilefRsqjk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52253/devtools/browser/19416b38-881e-4f0f-81d0-4d160e54b231
+1649561793284	Marionette	INFO	Listening on port 52260
+1649561793653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 2284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649561840084	Marionette	INFO	Stopped listening on port 52260
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649562612648	geckodriver	INFO	Listening on 127.0.0.1:54017
+1649562615777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54018" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileHOR0bE"
+1649562616380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileHOR0bE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54018/devtools/browser/eb781899-35ad-406e-b783-a46260647dc3
+1649562618461	Marionette	INFO	Listening on port 54029
+1649562618969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 3733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649562799420	Marionette	INFO	Stopped listening on port 54029
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+al\\Temp\\rust_mozprofilebi8sPt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54365/devtools/browser/55849db3-7ce1-47f7-8431-31725483c876
+1649562718332	Marionette	INFO	Listening on port 54374
+1649562718771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 6953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649562738171	Marionette	INFO	Stopped listening on port 54374
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649562880739	geckodriver	INFO	Listening on 127.0.0.1:54816
+1649562883867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54817" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileWaXnK9"
+1649562884162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileWaXnK9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54817/devtools/browser/d0d2b309-28ee-4d09-ab9f-30526a337217
+1649562886234	Marionette	INFO	Listening on port 54824
+1649562886525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 6677 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649562904810	Marionette	INFO	Stopped listening on port 54824
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649563350411	geckodriver	INFO	Listening on 127.0.0.1:55750
+1649563353553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55751" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilesfkLHs"
+1649563353850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilesfkLHs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55751/devtools/browser/199a9944-ad63-4f43-8ef2-1ac5f5e80a1c
+1649563355957	Marionette	INFO	Listening on port 55757
+1649563356235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 464 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649563405665	Marionette	INFO	Stopped listening on port 55757
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649563662565	geckodriver	INFO	Listening on 127.0.0.1:56445
+1649563665702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56446" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilekavuDb"
+1649563666000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilekavuDb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56446/devtools/browser/d044bf60-238c-4430-a6bf-4ae5061f7ccd
+1649563667975	Marionette	INFO	Listening on port 56454
+1649563668386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 6954 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649563687347	Marionette	INFO	Stopped listening on port 56454
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649563701359	geckodriver	INFO	Listening on 127.0.0.1:56666
+1649563704475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56667" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilee9es4M"
+1649563704772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilee9es4M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56667/devtools/browser/ecb8c5cd-4045-4c36-980d-8ac86221e0f5
+1649563706714	Marionette	INFO	Listening on port 56674
+1649563707150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 6441 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649563719637	Marionette	INFO	Stopped listening on port 56674
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649564063380	geckodriver	INFO	Listening on 127.0.0.1:54647
+1649564066502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54648" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofile2X7rwY"
+1649564066804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofile2X7rwY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54648/devtools/browser/be91f29d-9091-46dd-8bbc-99d9acd6f49a
+1649564068711	Marionette	INFO	Listening on port 54656
+1649564069191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 7025 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649564144351	geckodriver	INFO	Listening on 127.0.0.1:54957
+1649564147483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54958" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilePgpKYG"
+1649564147780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilePgpKYG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54958/devtools/browser/3d267f8c-5307-42f5-a045-da934bf1ec6f
+1649564149676	Marionette	INFO	Listening on port 54968
+1649564150145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 5800 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649564229329	Marionette	INFO	Stopped listening on port 54968
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649564957328	geckodriver	INFO	Listening on 127.0.0.1:49396
+1649564960463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49397" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileAkKUC8"
+1649564960784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileAkKUC8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49397/devtools/browser/15de53ed-fa9e-4096-92df-35d5b81375ca
+1649564962860	Marionette	INFO	Listening on port 49404
+1649564963157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649564964988	Marionette	INFO	Stopped listening on port 49404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649565146586	geckodriver	INFO	Listening on 127.0.0.1:49559
+1649565149708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49560" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilesttDiI"
+1649565149997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilesttDiI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49560/devtools/browser/ce0b85b4-ca43-4f38-8411-887e17d99357
+1649565151925	Marionette	INFO	Listening on port 49568
+1649565152395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649565220409	Marionette	INFO	Stopped listening on port 49568
+1649565231640	geckodriver	INFO	Listening on 127.0.0.1:49707
+1649565234776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49708" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileGe9PkO"
+1649565235064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileGe9PkO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49708/devtools/browser/c811c0fb-a871-4f1f-a7e6-6d29daffffe9
+1649565237004	Marionette	INFO	Listening on port 49714
+1649565237455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649565470638	geckodriver	INFO	Listening on 127.0.0.1:49932
+1649565473788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49933" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileECCK1C"
+1649565474098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileECCK1C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49933/devtools/browser/a75142b6-9789-45e1-8a28-289c61697bee
+1649565476184	Marionette	INFO	Listening on port 49942
+1649565476469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 4476 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649566030491	Marionette	INFO	Stopped listening on port 49942
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ws://localhost:53525/devtools/browser/14e741a9-300c-480d-9040-ca1da9b64a7c
+1649565649303	Marionette	INFO	Listening on port 53533
+1649565649654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 3443 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649565667508	Marionette	INFO	Stopped listening on port 53533
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649565773593	geckodriver	INFO	Listening on 127.0.0.1:53766
+1649565776723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53767" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofile6F5Ria"
+1649565777106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofile6F5Ria\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53767/devtools/browser/79804dbb-390d-4d1c-a6cd-648eb7ad830e
+1649565779074	Marionette	INFO	Listening on port 53774
+1649565779402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 527: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 6561 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649565791431	Marionette	INFO	Stopped listening on port 53774
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649625931389	geckodriver	INFO	Listening on 127.0.0.1:65262
+1649625934441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65263" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileOPyTmP"
+1649625934819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileOPyTmP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65263/devtools/browser/1b0bae96-901f-4f08-b0ae-39ab2fdc7951
+1649625936530	Marionette	INFO	Listening on port 65268
+1649625936599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 638: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2413 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649625948922	Marionette	INFO	Stopped listening on port 65268
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1649626616513	geckodriver	INFO	Listening on 127.0.0.1:49444
+1649626687197	geckodriver	INFO	Listening on 127.0.0.1:49494
+1649626690296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49495" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileF0DvxA"
+1649626690823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileF0DvxA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49495/devtools/browser/70710bd5-97f2-4c63-a838-c34a0ef75b4a
+1649626692676	Marionette	INFO	Listening on port 49501
+1649626692982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 638: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5331 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649626704462	Marionette	INFO	Stopped listening on port 49501
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\reap\AppData\Local\Temp\rust_mozprofileF0DvxA\protections.sqlite
+1649626758191	geckodriver	INFO	Listening on 127.0.0.1:49697
+1649626761242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49698" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileKTfEt9"
+1649626761612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileKTfEt9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49698/devtools/browser/628a2fdb-884a-4018-aba4-d2d1a61c82fc
+1649626763249	Marionette	INFO	Listening on port 49705
+1649626763305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 638: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649272544/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5823 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649626781376	Marionette	INFO	Stopped listening on port 49705
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649720344862	geckodriver	INFO	Listening on 127.0.0.1:61184
+1649720347938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61185" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileOqwsiD"
+1649720348439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileOqwsiD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61185/devtools/browser/3a6b9af3-1195-4aa8-8f6e-9b023e54f10d
+1649720350331	Marionette	INFO	Listening on port 61192
+1649720350615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 580: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649642144/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 3120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649720362346	Marionette	INFO	Stopped listening on port 61192
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649726674645	geckodriver	INFO	Listening on 127.0.0.1:50157
+1649726677712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50158" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilenvdDdr"
+1649726678095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilenvdDdr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50158/devtools/browser/c6fe1d78-3752-4326-abb0-6bf534f97014
+1649726679725	Marionette	INFO	Listening on port 50163
+1649726679766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 541: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649642144/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 6831 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649726691627	Marionette	INFO	Stopped listening on port 50163
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649726772017	geckodriver	INFO	Listening on 127.0.0.1:52401
+1649726775085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52402" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilezFjsKz"
+1649726775426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilezFjsKz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52402/devtools/browser/074ee944-3ea5-4f37-a188-532283a25503
+1649726777122	Marionette	INFO	Listening on port 52407
+1649726777147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 541: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649642144/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 3173 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649726788582	Marionette	INFO	Stopped listening on port 52407
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649726846881	geckodriver	INFO	Listening on 127.0.0.1:52547
+1649726849946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52548" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofiletQuXfN"
+1649726850243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofiletQuXfN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52548/devtools/browser/a5124e83-c7e0-4c6d-939e-36ffac36666c
+1649726851947	Marionette	INFO	Listening on port 52553
+1649726852004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 541: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649642144/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 4537 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649726864082	Marionette	INFO	Stopped listening on port 52553
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649727515790	geckodriver	INFO	Listening on 127.0.0.1:51393
+1649727518862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51394" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileCeIeJ6"
+1649727519152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileCeIeJ6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51394/devtools/browser/a25699f0-92bf-4f6e-9e53-694696423f88
+1649727520842	Marionette	INFO	Listening on port 51400
+1649727520926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 541: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649642144/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 3897 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649727535762	Marionette	INFO	Stopped listening on port 51400
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1649727770075	geckodriver	INFO	Listening on 127.0.0.1:51654
+1649727773167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51655" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilef3U0pi"
+1649727773458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilef3U0pi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51655/devtools/browser/5fed3cdc-d560-4568-a52a-f4bf905619e3
+1649727775214	Marionette	INFO	Listening on port 51662
+1649727775305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 541: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649642144/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 3233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649727790689	Marionette	INFO	Stopped listening on port 51662
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649727904671	geckodriver	INFO	Listening on 127.0.0.1:51894
+1649727907759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51895" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilefe75Q9"
+1649727908051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofilefe75Q9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51895/devtools/browser/381a0107-f3f7-4b00-bdea-a9524f7e3401
+1649727909769	Marionette	INFO	Listening on port 51901
+1649727909822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 541: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649642144/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 5511 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649727921405	Marionette	INFO	Stopped listening on port 51901
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1649728296183	geckodriver	INFO	Listening on 127.0.0.1:52264
+1649728299262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52265" "-no-remote" "-profile" "C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileXOgh4C"
+1649728299557	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\reap\\AppData\\Local\\Temp\\rust_mozprofileXOgh4C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52265/devtools/browser/eb2f7a65-6410-4784-a404-09629c6bf114
+1649728301285	Marionette	INFO	Listening on port 52272
+1649728301305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/, line 541: SyntaxError: expected expression, got '}'
+JavaScript error: https://s1.trrsf.com/update-1649642144/fe/zaz-ui-t360/_js/context.min.js, line 3: TypeError: 'periodic-background-sync' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 3305 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649728313315	Marionette	INFO	Stopped listening on port 52272
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
